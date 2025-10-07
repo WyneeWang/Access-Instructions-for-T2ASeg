@@ -13,8 +13,11 @@ Please direct your request to: wangwz@njust.edu.cn
 To help us process your request efficiently, please ensure your email includes the following information:
 
 Your full name
+
 Your affiliated institution/organization
+
 Your GitHub username (required to send the repository invitation)
+
 A brief reason for your request (e.g., academic research, project collaboration, etc.)
 
 ## Next Steps
